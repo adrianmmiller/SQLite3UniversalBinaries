@@ -1,0 +1,8 @@
+id=SQLite3UniversalBinaries
+name=SQLite3 Universal Binaries
+version=v1.5
+versionCode=1
+author=73sydney (Inspired by Olivier Pantale & aarch64 module)
+description=Installs an sqlite3 v4.1 binary to either /system/xbin OR /system/bin depending on existing system paths
+support=https://github.com/adrianmmiller/SQLite3UniversalBinaries
+updateJson=https://raw.githubusercontent.com/adrianmmiller/SQLite3UniversalBinaries/main/update.json
