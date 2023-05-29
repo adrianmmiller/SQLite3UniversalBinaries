@@ -1,5 +1,5 @@
 # SQLite3UniversalBinaries
-A simple magisk module to provide universal SQLite3 binaries, notably used by my GPay SQLite Fix magisk module
+A simple magisk module to provide universal SQLite3 binaries
 
 *Inspired by Olivier Pantale & the aarch64 module*
 
